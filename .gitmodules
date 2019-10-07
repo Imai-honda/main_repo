@@ -1,3 +1,0 @@
-[submodule "sub/sub_mod"]
-	path = sub/sub_mod
-	url = https://github.com/Imai-honda/sub_mod.git
