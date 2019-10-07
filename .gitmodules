@@ -1,0 +1,3 @@
+[submodule "JenkinsTest"]
+	path = JenkinsTest
+	url = https://github.com/Imai-honda/JenkinsTest.git
